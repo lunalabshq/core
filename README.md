@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lunalabs Core - Next.js Dashboard Starter 🚀
 
-## Getting Started
+Welcome to the Core Project, a modern Next.js starter kit. This project integrates cutting-edge technologies and tools to help you build scalable, high-performance, and user-friendly web applications.
 
-First, run the development server:
+## Used Components
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Next.js ⚛️
+- **Server-side Rendering & Static Generation:** Enhances performance and SEO. 🚀
+- **API Routes:** Simplifies the creation of backend endpoints. 🔌
+- **File-based Routing:** Offers intuitive navigation based on the file system. 📁
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Better Auth 🔐
+- **Authentication Management:** Simplifies login, logout, and session handling. 👤
+- **Social Logins:** Supports popular authentication providers. 🌐
+- **Security Features:** Enhances protection for user access. 🔒
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tailwind CSS 🌬️
+- **Utility-first Framework:** Enables rapid and flexible styling. 🎨
+- **Responsive Design:** Makes building mobile-friendly layouts easy. 📱
+- **Customizability:** Easily configurable for bespoke design requirements. ⚙️
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### BiomeJS 🌱
+- **Modern JavaScript Utilities:** Supports modular and maintainable code structures. 🛠️
+- **Enhanced Development Workflow:** Provides precise tools for code optimization. ⚡
+- **Seamless Integration:** Easily incorporated into existing projects. 🔗
 
-## Learn More
+### Zustand 🧠
+- **State Management:** Intuitively manages global state in React applications. 💡
+- **Lightweight:** Offers minimal overhead compared to other state management solutions. 🪶
+- **Ease of Use:** Quick to implement and extend. 🚀
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Resend / Openpanel (Planned) 🛠️
+- **Resend:** Upcoming integration for email management and dispatch. 📧
+- **Openpanel:** Planned central dashboard for project monitoring and management. 🖥️
+- **Future Enhancements:** Designed for expanding functionality and usability. 🔮
