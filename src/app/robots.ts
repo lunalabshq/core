@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: "/",
             disallow: "/dashboard/",
         },
-        sitemap: "",
+        sitemap: "https://example.com/sitemap.xml",
     }
 }
