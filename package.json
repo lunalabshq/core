@@ -20,7 +20,7 @@
     "date-fns": "^4.1.0",
     "framer-motion": "^12.4.3",
     "lucide-react": "^0.475.0",
-    "lunalabs-ui": "^1.0.3",
+    "lunalabs-ui": "^1.1.1",
     "next": "15.1.6",
     "oslo": "^1.2.1",
     "react": "^19.0.0",
